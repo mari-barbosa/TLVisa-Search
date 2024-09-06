@@ -28,12 +28,12 @@ Se você é um desenvolvedor, gosta de Valorant ou da Team Liquid Visa, e quer a
 
 **Algumas funcionalidades que pretendo adicionar em breve:**
 
-[] Fotos e mais informações sobre as atletas
-[] Informações sobre a comissão técnica e a sede da Team Liquid Visa
-[] Adicionar licença de código aberto para que todes possam contribuir e adaptar esse projeto para o seu time do coração
-[] Informações sobre os jogos e campeonatos passados
-[] Informações sobre os campeonatos futuros
-[] Melhorar a qualidade da base de dados, possivelmente migrando para uma ferramenta de banco de dados dedicada
+- [ ]  Fotos e mais informações sobre as atletas
+- [ ] Informações sobre a comissão técnica e a sede da Team Liquid Visa
+- [ ]  Adicionar licença de código aberto para que todes possam contribuir e adaptar esse projeto para o seu time do coração
+- [ ]  Informações sobre os jogos e campeonatos passados
+- [ ]  Informações sobre os campeonatos futuros
+- [ ]  Melhorar a qualidade da base de dados, possivelmente migrando para uma ferramenta de banco de dados dedicada
 
 **Observações:**
 
